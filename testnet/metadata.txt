@@ -1,4 +1,4 @@
-{
+[{
   "proposalid": 100,
   "network": "testnet",
   "version": 1,
@@ -6,4 +6,4 @@
   "blockheight_start": 589000,
   "blockheight_end": 599000,
   "link": "https://github.com/dasource/test/issues/1"
-}
+}]
