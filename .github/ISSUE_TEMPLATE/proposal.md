@@ -1,7 +1,7 @@
 ---
 name: Proposal
-about: Describe this issue template's purpose here.
-title: ''
+about: use this template to create a proposal for community review
+title: "[PROPOSAL] "
 labels: ''
 assignees: ''
 
